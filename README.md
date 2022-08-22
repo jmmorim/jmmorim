@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**jmmorim/jmmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a Coastal Climate Scientist with a multidisciplinary background bridging climate, environment and data science with strong emphasis on climate-driven offshore and coastal hazards. 
+
+My research focus on understanding historical and climate change-driven coastal hazards, such as widespread flooding driven by ocean waves, sea level and storm surges. 
+
+Strong background on quantification of climate change ‘uncertainty’ to support adaption pathways!
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
